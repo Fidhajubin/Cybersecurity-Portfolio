@@ -71,5 +71,5 @@ To be updated.
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/fidha-jubin-2bb49526b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- GitHub: Add your GitHub profile URL
+- GitHub: https://github.com/Fidhajubin
 - Email: Fidhajubin155@gmail.com
