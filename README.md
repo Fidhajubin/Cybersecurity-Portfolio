@@ -47,7 +47,6 @@ Hands-on cybersecurity labs covering:
 - Enumeration
 - Linux
 - Web Application Security
-
 ### Pentest Garage
 Hands-on exercises covering:
 - Reconnaissance
